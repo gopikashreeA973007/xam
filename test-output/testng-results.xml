@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37315" started-at="2020-04-23T03:15:41Z" finished-at="2020-04-23T03:16:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37315" started-at="2020-04-23T03:15:41Z" finished-at="2020-04-23T03:16:19Z">
+      <class name="seleniumproject.NewTest">
+        <test-method status="PASS" signature="testPayment()[pri:4, instance:seleniumproject.NewTest@55f3ddb1]" name="testPayment" duration-ms="37292" started-at="2020-04-23T08:45:41Z" finished-at="2020-04-23T08:46:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPayment -->
+      </class> <!-- seleniumproject.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
